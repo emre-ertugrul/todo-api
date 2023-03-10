@@ -1,0 +1,13 @@
+{
+  "name": "todo-api",
+  "version": "0.1.0",
+  "scripts": {
+    "mock:server": "nodemon server/server.js --ext js,ts,json,html"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.15"
+  }
+}

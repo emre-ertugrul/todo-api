@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "First Item",
+    "checked": true
+  },
+  {
+    "id": "2",
+    "name": "Second Item",
+    "checked": false
+  },
+  {
+    "id": "3",
+    "name": "Third Item",
+    "checked": false
+  }
+]
